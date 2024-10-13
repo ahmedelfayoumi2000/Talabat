@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Talabat.API.props" />
+</Project>

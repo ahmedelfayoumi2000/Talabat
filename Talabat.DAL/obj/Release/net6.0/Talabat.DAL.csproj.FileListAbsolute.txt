@@ -1,0 +1,13 @@
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\bin\Release\net6.0\Talabat.DAL.deps.json
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\bin\Release\net6.0\Talabat.DAL.dll
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\bin\Release\net6.0\Talabat.DAL.pdb
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\obj\Release\net6.0\Talabat.DAL.csproj.AssemblyReference.cache
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\obj\Release\net6.0\Talabat.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\obj\Release\net6.0\Talabat.DAL.AssemblyInfoInputs.cache
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\obj\Release\net6.0\Talabat.DAL.AssemblyInfo.cs
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\obj\Release\net6.0\Talabat.DAL.csproj.CoreCompileInputs.cache
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\obj\Release\net6.0\Talabat.DAL.sourcelink.json
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\obj\Release\net6.0\Talabat.DAL.dll
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\obj\Release\net6.0\refint\Talabat.DAL.dll
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\obj\Release\net6.0\Talabat.DAL.pdb
+C:\Users\AHMED\source\repos\Talabat\Talabat.DAL\obj\Release\net6.0\ref\Talabat.DAL.dll
