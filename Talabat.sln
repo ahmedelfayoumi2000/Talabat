@@ -5,9 +5,11 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Talabat.API", "Talabat.API\Talabat.API.csproj", "{02E3374A-D23A-40A1-BDE7-812483124D64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.BLL", "Talabat.BLL\Talabat.BLL.csproj", "{48EC16F1-221A-49B0-AB37-5293D25BF1A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Talabat.BLL", "Talabat.BLL\Talabat.BLL.csproj", "{48EC16F1-221A-49B0-AB37-5293D25BF1A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.DAL", "Talabat.DAL\Talabat.DAL.csproj", "{A18F6F53-3DB6-40A2-9CA4-5C9FF47C1D6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Talabat.DAL", "Talabat.DAL\Talabat.DAL.csproj", "{A18F6F53-3DB6-40A2-9CA4-5C9FF47C1D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.DashBoard", "Talabat.DashBoard\Talabat.DashBoard.csproj", "{915A97E7-6EEB-4D9D-BA4D-4FFC4FFC8D1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{A18F6F53-3DB6-40A2-9CA4-5C9FF47C1D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A18F6F53-3DB6-40A2-9CA4-5C9FF47C1D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A18F6F53-3DB6-40A2-9CA4-5C9FF47C1D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{915A97E7-6EEB-4D9D-BA4D-4FFC4FFC8D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915A97E7-6EEB-4D9D-BA4D-4FFC4FFC8D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915A97E7-6EEB-4D9D-BA4D-4FFC4FFC8D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915A97E7-6EEB-4D9D-BA4D-4FFC4FFC8D1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
