@@ -34,7 +34,7 @@ Follow the steps below to set up and run the project locally.
 ### Prerequisites:
 - [.NET SDK](https://dotnet.microsoft.com/download) (version 7.0 )
 - [Git](https://git-scm.com/)
-- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (or a compatible database)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [Stripe Account](https://stripe.com/) (for payment integration)
 
 ### Installation:
